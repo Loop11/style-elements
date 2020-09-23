@@ -12,3 +12,4 @@ benchmarks/rendering/staging
 ohno.png
 
 *.notes
+.idea
